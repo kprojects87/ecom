@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Run Locally
 
 Clone the project
@@ -33,3 +34,6 @@ The server should now be running. You can access the application by opening a we
 ```bash
   http://localhost:3000
 ```
+=======
+# ecom
+>>>>>>> 117a14954177af090c39a6d3c96895720230a4e5
